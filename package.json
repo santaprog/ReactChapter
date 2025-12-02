@@ -1,0 +1,23 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is React application.",
+  "homepage": "https://github.com/santaprog/ReactChapter#readme",
+  "bugs": {
+    "url": "https://github.com/santaprog/ReactChapter/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santaprog/ReactChapter.git"
+  },
+  "license": "ISC",
+  "author": "Prajakta Ghatage",
+  "type": "commonjs",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.1"
+  }
+}
