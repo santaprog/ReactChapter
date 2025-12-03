@@ -9,5 +9,5 @@ Conversion of JSX into ES6 script will done by Parcel-Babel(JS compiler/Transpil
 1.There are two types of component Function based and class based component.
 2.Function based components are just a normal JS function which return JSX.
 3.We can write function with or without return . Funcxtion name always starts with Capital letter.
-const Heading = ()=><h1>This is functional component.</h1>
+const Heading = ()=>"write jsx syntatx in it"
 4.Component inside component is called Component Composition.
